@@ -1,0 +1,6 @@
+{
+  "hello_world": "Hello World",
+  "required" : "this feild is required",
+  "min_max" : "this feild must be btween %s,%s",
+  "email" : "this feild must be email"
+}
